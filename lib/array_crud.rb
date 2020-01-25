@@ -1,3 +1,9 @@
+#add_element_to_end_of_array
+#push
+#add_element_to_start_of_array
+#unshift
+#remov
+
 #create_an_array
 end
 
