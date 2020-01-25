@@ -2,7 +2,11 @@
 #push
 #add_element_to_start_of_array
 #unshift
-#remov
+#remove_element_from_end_of_array
+#pop
+#remove_element_from_start_of_array
+#unshift
+
 
 #create_an_array
 end
